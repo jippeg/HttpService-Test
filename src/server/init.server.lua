@@ -1,1 +1,1 @@
-print("Hello world, from server!")
+local HttpService = game:GetService("HttpService")
